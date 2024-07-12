@@ -1,12 +1,8 @@
 ---
-title: Maturity
-author: Xin Yi
+title: "Maturity"
 date: 2024-07-07 15:16:00 +0800
 categories: [Reflection]
 tags: [reflection]
-pin: true
-math: true
-mermaid: true
 ---
 
 

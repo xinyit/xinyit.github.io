@@ -1,5 +1,6 @@
 ---
 title: "Tech interview questions I was not prepared for"
+author: Xin Yi
 date: 2024-02-08 11:33:00 +0800
 categories: [Tech]
 tags: [tech]

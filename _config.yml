@@ -14,12 +14,12 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Xin Yi Tan # the main title
+title: Xin Yi's Blog # the main title
 
-tagline: Follow me as explore things that are worth writing blog posts about # it will display as the sub-title
+tagline: Meep. Weekly ideas and reflections. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My thoughts
+  A blog for my thoughts, learnings, reflections, and ideas
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://xinyit.github.io', note that it does not end with a '/'.
@@ -38,7 +38,7 @@ social:
   email: 08tanx@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/08tanx # change to your twitter homepage
+    # - https://twitter.com/08tanx # change to your twitter homepage
     - https://github.com/xinyit # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

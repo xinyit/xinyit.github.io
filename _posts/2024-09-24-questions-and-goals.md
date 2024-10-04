@@ -1,6 +1,5 @@
 ---
 title: Questions and goals
-author: Xin Yi
 date: 2024-09-24 19:30:00 +0800
 categories: [Reflection]
 tags: [reflection]

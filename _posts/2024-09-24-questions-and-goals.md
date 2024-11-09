@@ -3,7 +3,6 @@ title: Questions and goals
 date: 2024-09-24 19:30:00 +0800
 categories: [Reflection]
 tags: [reflection]
-pin: true
 math: true
 mermaid: true
 ---

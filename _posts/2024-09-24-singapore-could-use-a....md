@@ -3,7 +3,6 @@ title: Singapore could use a...
 date: 2024-09-24 20:00:00 +0800
 categories: [Ideas]
 tags: [ideas]
-pin: true
 math: true
 mermaid: true
 ---
